@@ -1,2 +1,17 @@
-# -Car-Accidents-USA-Team-Project
-The Car Accidents USA is a comprehensive exploratory data analysis (EDA) focused on understanding traffic accident patterns across the United States. Using a large dataset of accident records, this project investigates how factors such as weather conditions, road attributes etc influence the frequency and severity of accidents.
+# US Car Accidents EDA Project
+
+## Team Members
+- Athanasios Sakatziadis
+- Eva Katsanou
+- Kalliopi Giannoukou
+
+## Project Description
+This project explores US car accidents from 2017 to 2022. We analyze:
+- Accident counts per State
+- Severity of accidents per Weather Condition
+- Impact of Day/Night and Traffic Signals
+- Comparative analysis: 2017-2019 vs 2020-2022
+
+## Dataset
+The dataset used for this project is from Kaggle:  
+[US Car Accidents (2017–2022)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
